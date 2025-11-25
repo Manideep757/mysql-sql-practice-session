@@ -1,2 +1,3 @@
-# mysql-sql-practice-session
-SQL practice solutions for MySQL – includes queries, joins, subqueries, advanced SQL.
+# MySQL Practice Solutions
+
+This repository contains SQL assignments, sample databases, and solutions for different levels of SQL difficulty.

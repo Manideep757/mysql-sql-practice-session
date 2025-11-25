@@ -1,0 +1,1 @@
+SELECT dept_id, AVG(salary) FROM employees GROUP BY dept_id;
